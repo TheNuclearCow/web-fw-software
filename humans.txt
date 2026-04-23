@@ -1,0 +1,8 @@
+/* TEAM */
+Author/Developer: Patrick Sheedy
+From: Washington, USA
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript
+Components: Vanilla CSS, Vanilla JS
+Software: VS Code
